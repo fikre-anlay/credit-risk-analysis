@@ -92,7 +92,6 @@ Borrowers with higher interest rates, longer loan terms, higher DTI, and lower c
 
 ## 📂 Repository Structure
 
-```text
 credit-risk-analysis/
 ├── data/
 │   └── loan_data.csv
@@ -101,8 +100,6 @@ credit-risk-analysis/
 ├── images/
 │   └── roc_curve.png
 ├── README.md
-
----
 
 🚀 Next Improvements
 
