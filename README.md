@@ -5,6 +5,7 @@ Financial institutions need to identify high-risk borrowers to reduce loan defau
 
 ## Data
 This project uses publicly available Lending Club accepted loan data (2007–2018), including loan amount, interest rate, income, debt-to-income ratio, employment length, and credit score.
+Due to file size constraints, a representative sample of the dataset is included in this repository.
 
 ## Methodology
 - Data cleaning and preparation
