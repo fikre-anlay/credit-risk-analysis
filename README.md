@@ -101,3 +101,14 @@ credit-risk-analysis/
 ├── images/
 │   └── roc_curve.png
 ├── README.md
+
+---
+
+## 👤 Author
+
+**Fikreyohannes Getnet Anlay**  
+MSc Data Analytics – Georgia Institute of Technology  
+Background in Banking & Development Economics  
+
+🔗 GitHub: https://github.com/fikre-anlay
+
