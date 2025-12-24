@@ -104,11 +104,20 @@ credit-risk-analysis/
 
 ---
 
-## 👤 Author
+🚀 Next Improvements
 
-**Fikreyohannes Getnet Anlay**  
-MSc Data Analytics – Georgia Institute of Technology  
-Background in Banking & Development Economics  
+Try tree-based models (Random Forest, XGBoost)
+
+Perform hyperparameter tuning
+
+Add probability calibration
+
+Business cost-sensitive modeling
+
+👤 Author
+
+Fikreyohannes Getnet Anlay
+MSc Data Analytics – Georgia Institute of Technology
+Background in Banking & Development Economics
 
 🔗 GitHub: https://github.com/fikre-anlay
-
