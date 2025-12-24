@@ -92,6 +92,7 @@ Borrowers with higher interest rates, longer loan terms, higher DTI, and lower c
 
 ## 📂 Repository Structure
 
+```text
 credit-risk-analysis/
 ├── data/
 │   └── loan_data.csv
@@ -100,6 +101,7 @@ credit-risk-analysis/
 ├── images/
 │   └── roc_curve.png
 ├── README.md
+
 
 🚀 Next Improvements
 
@@ -114,7 +116,9 @@ Business cost-sensitive modeling
 👤 Author
 
 Fikreyohannes Getnet Anlay
+
 MSc Data Analytics – Georgia Institute of Technology
+
 Background in Banking & Development Economics
 
 🔗 GitHub: https://github.com/fikre-anlay
