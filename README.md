@@ -1,4 +1,4 @@
-# Credit Risk Analysis & Default Prediction
+# Credit Risk Modeling & Default Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -47,6 +47,17 @@ The full dataset is not included due to size. A representative sample is used.
 - Matplotlib
 - Scikit-learn
 - Jupyter Notebook
+
+---
+
+## Key Skills Demonstrated
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Logistic regression modeling
+- Model evaluation using ROC-AUC
+- Financial risk interpretation
 
 ---
 
