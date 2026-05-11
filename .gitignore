@@ -1,0 +1,10 @@
+.DS_Store
+.Rhistory
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+.venv/
+
+model/*.pkl
+!model/.gitkeep
